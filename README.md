@@ -2,7 +2,7 @@
 - 👀 I’m interested in e-commerce, mobile and blockchain
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ...
+- 📫 How to reach me : https://twitter.com/EvilBob1024
 
 <!---
 fatbob1024/fatbob1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
